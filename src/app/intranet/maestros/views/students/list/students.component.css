@@ -1,0 +1,19 @@
+.mat-button {
+    margin-right: 8px;
+}
+
+.container {
+    margin: 20px;
+}
+
+.title {
+    text-align: center;
+    margin-button: 20px;
+}
+
+.addButton {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+}
+

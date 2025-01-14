@@ -1,0 +1,11 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "nombres": "Neisser Arilson",
+      "apellidos": "Moreno Sanchez",
+      "direccion": "Pasaje tumi 111 el cortijo",
+      "telefono": "929552761"
+    }
+  ]
+}
